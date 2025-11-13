@@ -1,0 +1,8 @@
+datasets/
+runs*/
+*.pt
+*.onnx
+*.zip
+*.mp4
+*.jpg
+*.png
